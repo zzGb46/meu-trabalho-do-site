@@ -256,10 +256,10 @@ cursor: pointer;
   border-top-right-radius: 50px;
   border-bottom-left-radius: 50px;
   position: absolute;
-  margin-top: 1600px;
-  font-size: 35px;
+  margin-top: 1500px;
+  font-size: 20px;
   text-align: center;
-  height: 320px;
+  height: 120px;
   animation: border 3s infinite;
 }
 
