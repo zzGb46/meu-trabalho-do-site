@@ -366,9 +366,9 @@ cursor: pointer;
   flex-direction: row;
   flex-wrap: wrap;
   margin-top: 200px;
-  margin-left: 200px;
+  margin-left: 170px;
   height: 100px;
-  gap: 60px;
+  gap: 25px;
   
   
 
@@ -422,7 +422,7 @@ cursor: pointer;
  #book{
   width: 350px;
   height: 500px;
-  margin: 5px;
+  margin: 10px;
 
   
   border: 2px solid white;
